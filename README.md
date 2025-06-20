@@ -2,7 +2,7 @@
 
 This is a simple web application that displays random quotes and allows you to share them on Twitter. The background color of the page also changes every time a new quote is generated.
 
-![preview](public/preview.png)
+![](./public/design.png)
 
 ## Features
 
