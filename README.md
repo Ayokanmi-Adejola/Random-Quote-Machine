@@ -44,4 +44,4 @@ To get a local copy up and running, follow these simple steps.
 
 ## Author
 
-- **Ayokanmi Adejola**# Random-Quote-Machine
+- **Ayokanmi Adejola**
