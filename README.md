@@ -30,7 +30,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/random-quote-machine.git
+   git clone https://github.com/Ayokanmi-Adejola/random-quote-machine.git
    ```
 2. Install NPM packages
    ```sh
