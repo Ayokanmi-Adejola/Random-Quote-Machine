@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-This is a simple web application that displays random quotes and allows you to share them on Twitter. The background color of the page also changes every time a new quote is generated.
+This is a simple web application that displays random quotes and allows you to share them on Twitter. The background color of the page also changes every time a new quote is generated
 
 ![image](https://github.com/user-attachments/assets/3dd30d70-a8f6-4916-a11e-2cda18099e65)
 
