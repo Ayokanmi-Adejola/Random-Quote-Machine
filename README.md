@@ -41,7 +41,3 @@ To get a local copy up and running, follow these simple steps.
    npm run dev
    ```
 4. Open your browser and navigate to `http://localhost:5173/`
-
-## Author
-
-- **Ayokanmi Adejola**
